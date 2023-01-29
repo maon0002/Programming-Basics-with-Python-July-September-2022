@@ -61,6 +61,6 @@ Lecturers of the course - Mario Zahariev, Ivan Shopov, Veronika Vaneva
 
 <h1></h1>
 
->Course page - Programming Basics with Python - July 2022 - https://softuni.bg/trainings/3756/programming-basics-with-python-july-2022
+>Course page - [Programming Basics with Python - July 2022](https://softuni.bg/trainings/3756/programming-basics-with-python-july-2022)
 >
 > <p style="text-align:center;"><img src="https://about.softuni.bg/Content/images/svg-logos/softuni-logo-white.svg" width=400 length=400 alt="Logo"></p>
